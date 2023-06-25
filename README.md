@@ -8,7 +8,7 @@
 ![GIFMaker_me](https://github.com/woowacourse/prolog/assets/72205402/eaf2e688-82dd-4040-a560-0e8a2ca87cc5)
 
 ## 🔗 링크
-[홈페이지 링크](https://gc-park.github.io/react-shopping-cart/)
+[홈페이지 링크](https://gc-park.github.io/react-shopping-cart/)<br>
 [스토리북 링크](https://gc-park.github.io/react-shopping-cart/storybook)
 
 ## 🚀 Getting Started
