@@ -7,6 +7,10 @@
 
 ![GIFMaker_me](https://github.com/woowacourse/prolog/assets/72205402/eaf2e688-82dd-4040-a560-0e8a2ca87cc5)
 
+## 🔗 링크
+[홈페이지 링크](https://gc-park.github.io/react-shopping-cart/)<br>
+[스토리북 링크](https://gc-park.github.io/react-shopping-cart/storybook)
+
 ## 🚀 Getting Started
 
 > 다수의 컴포넌트를 페이지로 구성하고 복잡해진 상태를 관리합니다.
