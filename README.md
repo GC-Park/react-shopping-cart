@@ -5,7 +5,7 @@
 <p align="middle">React & Redux 데스크탑 장바구니 애플리케이션</p>
 </p>
 
-![GIFMaker_me](https://github.com/woowacourse/prolog/assets/72205402/cec212ec-fdd3-4b17-a4df-420ac522d85b)
+![GIFMaker_me](https://github.com/woowacourse/prolog/assets/72205402/eaf2e688-82dd-4040-a560-0e8a2ca87cc5)
 
 ## 🚀 Getting Started
 
